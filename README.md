@@ -1,5 +1,5 @@
 ### 🚀 About me:
-### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="40">
+### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
 
 
 #### I am a Jr. Web Developer 💻, Husband & a 👲 father and I love painting 🎨.
