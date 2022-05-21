@@ -6,7 +6,8 @@ I am a lifelong learner and love coding. I strive to create intuitive, attractiv
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on React.JS. 
+- 🔭 I’m currently learning React. 
+- Seeking summer Internship in software development.
 
 
 
