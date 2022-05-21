@@ -1,15 +1,15 @@
 ### 🚀 About me:
-### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="100">
+### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="40">
 
 
 #### I am a Jr. Web Developer 💻, Husband & a 👲 father and I love painting 🎨.
 
-<img src="https://user-images.githubusercontent.com/96953205/169472465-864879cc-df4e-4aac-be7a-4d98eb0dbd27.jpeg" width="1600" height="150">
+<img src="https://user-images.githubusercontent.com/96953205/169472465-864879cc-df4e-4aac-be7a-4d98eb0dbd27.jpeg" width="800" height="100">
 
 I am a lifelong learner and I love coding. I strive to create intuitive, attractive, and user-friendly websites, apps, and web content. 
 
 
-Coding languages/skills: <img src="https://user-images.githubusercontent.com/96953205/169663844-b9fdbdae-fc4e-4faa-8bc1-9a8e06ba98c7.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169663972-86d6f44c-b645-45f0-b927-1ea55fb80147.png" width="50">   <img src="https://user-images.githubusercontent.com/96953205/169664040-6150544d-a068-4aa6-bb42-96b9f3bab50a.png" width="45">    <img src="https://user-images.githubusercontent.com/96953205/169664119-2502b61b-549b-4403-bb7e-082e983c1d21.png" width="45">   <img src="https://user-images.githubusercontent.com/96953205/169664170-16298fd6-e471-4e70-bb5b-419a3f932c9f.png" width="40">  <img src="https://user-images.githubusercontent.com/96953205/169664277-6436dcaf-3753-4a9b-95a8-85a6df25d126.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169664375-84b8d36f-5eb8-41ba-89a2-dfb387f3249a.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169664400-38ffa092-896e-422d-913a-a83d4ba0f698.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169664452-b69a62f0-be20-45e8-b489-a88afcd8ed26.png" width="50">
+Coding languages/skills: <img src="https://user-images.githubusercontent.com/96953205/169663844-b9fdbdae-fc4e-4faa-8bc1-9a8e06ba98c7.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169663972-86d6f44c-b645-45f0-b927-1ea55fb80147.png" width="50">   <img src="https://user-images.githubusercontent.com/96953205/169664040-6150544d-a068-4aa6-bb42-96b9f3bab50a.png" width="45">    <img src="https://user-images.githubusercontent.com/96953205/169664119-2502b61b-549b-4403-bb7e-082e983c1d21.png" width="45">   <img src="https://user-images.githubusercontent.com/96953205/169664170-16298fd6-e471-4e70-bb5b-419a3f932c9f.png" width="40">  <img src="https://user-images.githubusercontent.com/96953205/169664277-6436dcaf-3753-4a9b-95a8-85a6df25d126.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169664375-84b8d36f-5eb8-41ba-89a2-dfb387f3249a.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169664400-38ffa092-896e-422d-913a-a83d4ba0f698.png" width="50"> <img src="https://user-images.githubusercontent.com/96953205/169664721-24b5c785-2f91-4ddc-b6dd-3ecb29cf8808.png" width="50">  <img src="https://user-images.githubusercontent.com/96953205/169664809-d8a3bb84-9190-4be1-a0e3-be3cb1f8694b.png" width="50"> <img src="https://www.g-workspace.jp/wp-content/uploads/cropped-site-icon-1.png" width="43">
 
 
 
@@ -21,9 +21,11 @@ Coding languages/skills: <img src="https://user-images.githubusercontent.com/969
 
 
 
-- 🔭 I’m currently learning React. 
 
-### Seeking summer Internship in software development.
+
+#### 🔭 I’m currently learning React. 
+
+## Seeking summer Internship in software development.
 
 
 [![Hamza’s github stats](https://github-readme-stats.vercel.app/api?username=gcteamdev)](https://github.com/gcteamdev)
