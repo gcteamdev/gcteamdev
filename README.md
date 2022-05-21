@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="70">
 
 
-#### I am a Jr. Web Developer 💻, Husband & a 👲 father and I love painting 🎨!.
+#### I am a Jr. Web Developer 💻, Husband & a 👲 father and I love painting 🎨.
 
 <img src="https://user-images.githubusercontent.com/96953205/169472465-864879cc-df4e-4aac-be7a-4d98eb0dbd27.jpeg" width="1600" height="150">
 
