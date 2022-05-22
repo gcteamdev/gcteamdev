@@ -1,3 +1,4 @@
+![Animated Logo 500x500 px (6) (1)](https://user-images.githubusercontent.com/96953205/169720448-5cad98b8-6366-4d34-a312-2fe10bb341df.gif)
 ### 🚀 About me:
 ### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
 
