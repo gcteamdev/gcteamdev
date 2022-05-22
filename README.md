@@ -28,7 +28,7 @@ Coding languages/skills: <img src="https://user-images.githubusercontent.com/969
 ## Seeking summer Internship in software development.
 
 
-[![Hamza’s github stats](https://github-readme-stats.vercel.app/api?username=gcteamdev)](https://github.com/gcteamdev)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gcteamdev?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcteamdev&layout=compact)](https://github.com/gcteamdev)
 
