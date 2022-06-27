@@ -25,7 +25,7 @@ Coding languages/skills: <img src="https://user-images.githubusercontent.com/969
 
 
 
-#### 🔭 I’m currently learning React. 
+#### 🔭 I’m currently learning Node.js. 
 
 ## Seeking summer Internship in software development.
 
