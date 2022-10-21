@@ -4,7 +4,7 @@
 ### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
 
 
-#### I am a Jr. Web Developer 💻, a husband & a 👲 father and I love painting 🎨.
+#### I am a Frontend React/RN developer 💻, a husband & a 👲 father and I love painting 🎨.
 
 <img src="https://user-images.githubusercontent.com/96953205/169472465-864879cc-df4e-4aac-be7a-4d98eb0dbd27.jpeg" width="800" height="100">
 
@@ -25,9 +25,9 @@ Coding languages/skills: <img src="https://user-images.githubusercontent.com/969
 
 
 
-#### 🔭 I’m currently learning Node.js. 
+#### 🔭 I’m currently learning Fullstack development. 
 
-## Seeking summer Internship in software development.
+
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gcteamdev?cardType=github&theme=highcontrast)](https://git.io/awesome-stats-card)
