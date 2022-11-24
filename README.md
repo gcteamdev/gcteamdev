@@ -6,7 +6,6 @@
 
 #### I am a Frontend React/RN developer 💻, a husband & a 👲 father and I love painting 🎨.
 
-<img src="https://user-images.githubusercontent.com/96953205/169472465-864879cc-df4e-4aac-be7a-4d98eb0dbd27.jpeg" width="800" height="100">
 
 I am a lifelong learner who loves coding. I strive to create intuitive, attractive, and user-friendly websites, apps, and web content. 
 
