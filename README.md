@@ -1,7 +1,7 @@
 
 
 ### 🚀 About me:
-### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60" border-radius="50%>
+### Hi there 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60" borderRadius="50%>
 
 
 #### I am a Frontend React/RN developer 💻, a husband & a 👲 father and I love painting 🎨.
