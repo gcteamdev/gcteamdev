@@ -1,7 +1,7 @@
 
 
 ### 🚀 About me:
-### Hi world 🌍 👋, my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
+###👋,Hi 🌍 my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
 
 ![](https://komarev.com/ghpvc/?username=gcteamdev)
 #### Frontend Developer || Full-Stack developer 💻.
