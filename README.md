@@ -1,10 +1,10 @@
 
 
 ### 🚀 About me:
-### 👋,Hello 🌍 my name is Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
+### 👋,Hello 🌍 I'm Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
 
 ![](https://komarev.com/ghpvc/?username=gcteamdev)
-#### Frontend Developer || Full-Stack developer 💻.
+#### A Frontend Developer || Full-Stack developer 💻.
 
 
 I am a lifelong learner who loves coding. I strive to create intuitive, attractive, and user-friendly websites, apps, and web content. 
