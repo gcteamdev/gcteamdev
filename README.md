@@ -1,12 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=gcteamdev)
 
-###  <div align="center"> 🚀About me: </div>
-***
-### 👋,Hello 🌍 I'm Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60">
-#### A Frontend Developer || Full-Stack developer 💻.
-## [Portfolio Website](https://gcteam.dev)
+#  <div align="center"> 🚀About me: </div>
 
-Coding languages/skills: <img src="https://user-images.githubusercontent.com/96953205/169663844-b9fdbdae-fc4e-4faa-8bc1-9a8e06ba98c7.png" width="50"><img src="https://instil.co/static/5ffd63e15c8dc269360ec736cdc9141e/616dc/Stack.png" width="140"><img src="https://user-images.githubusercontent.com/96953205/169663972-86d6f44c-b645-45f0-b927-1ea55fb80147.png" width="50">   <img src="https://user-images.githubusercontent.com/96953205/169664040-6150544d-a068-4aa6-bb42-96b9f3bab50a.png" width="45"><img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png?w=256&f=avif" width="50"><img src="https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/images/optimized/rev-54b50ac/wp-content/uploads/2020/12/node.js-logo-image-2048x1170.png" width="70"><img src="https://user-images.githubusercontent.com/96953205/169664809-d8a3bb84-9190-4be1-a0e3-be3cb1f8694b.png" width="50"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*RWc78aUjHJZp41lMxnFdyw.png" width ="80">
+### <div align="center">👋,Hello 🌍 I'm Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60"> </div>
+
+#### <div align="center"> A Frontend Developer || Full-Stack developer. </div>
+
+## <div align="center">💻 [Portfolio Website](https://gcteam.dev) </div>
+
+### <div align="center"> Coding languages/skills: </div> 
+  # <div align="center"> <img src="https://user-images.githubusercontent.com/96953205/169663844-b9fdbdae-fc4e-4faa-8bc1-9a8e06ba98c7.png" width="50"><img src="https://instil.co/static/5ffd63e15c8dc269360ec736cdc9141e/616dc/Stack.png" width="140"><img src="https://user-images.githubusercontent.com/96953205/169663972-86d6f44c-b645-45f0-b927-1ea55fb80147.png" width="50">   <img src="https://user-images.githubusercontent.com/96953205/169664040-6150544d-a068-4aa6-bb42-96b9f3bab50a.png" width="45"><img src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png?w=256&f=avif" width="50"><img src="https://cdn-clekk.nitrocdn.com/tkvYXMZryjYrSVhxKeFTeXElceKUYHeV/assets/images/optimized/rev-54b50ac/wp-content/uploads/2020/12/node.js-logo-image-2048x1170.png" width="70"><img src="https://user-images.githubusercontent.com/96953205/169664809-d8a3bb84-9190-4be1-a0e3-be3cb1f8694b.png" width="50"><img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*RWc78aUjHJZp41lMxnFdyw.png" width ="80"> </div>
 
 
 
