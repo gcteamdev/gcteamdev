@@ -13,9 +13,19 @@
 
 
 
+#### <div align="center"> 🤝 Connect with me:  
+
+
+[1]: http://www.github.com/gcteamdev/gcteamdev/edit/main/README.md
+[2]: https://www.linkedin.com/in/g-hamza-choudhury-a5889722a/
+[3]: https://www.facebook.com/profile.php?id=100077323763865
+
+
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
 
 
 
+</div>
 
 
 
@@ -28,14 +38,4 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gcteamdev?cardType=github&theme=highcontrast)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcteamdev&layout=compact)](https://github.com/gcteamdev)
 
-### 🤝 Connect with me: 
-
-
-[1]: http://www.github.com/gcteamdev/gcteamdev/edit/main/README.md
-[2]: https://www.linkedin.com/in/g-hamza-choudhury-a5889722a/
-[3]: https://www.facebook.com/profile.php?id=100077323763865
-
----
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][3]
----
 
