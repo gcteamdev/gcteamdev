@@ -4,7 +4,7 @@
 
 ### <div align="center">👋,Hello 🌍 I'm Hamza <img src="https://media.giphy.com/media/OqFpgF7bet1sRoCmpb/giphy.gif" width="60"> </div>
 
-#### <div align="center"> A Frontend Developer || Full-Stack developer. </div>
+#### <div align="center"> A 🧑🏻‍💻 Frontend Developer || Full-Stack developer. </div>
 
 ## <div align="center">💻 [Portfolio Website](https://gcteam.dev) </div>
 
