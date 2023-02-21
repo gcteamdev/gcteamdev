@@ -13,7 +13,7 @@
 
 
 
-#### <div align="center"> 🤝 Connect with me:  
+### <div align="center"> 🤝 Connect with me:  
 
 
 [1]: http://www.github.com/gcteamdev/gcteamdev/edit/main/README.md
