@@ -3,7 +3,7 @@
 #  <div align="center"> 🚀About me: </div>
 
 ### <div align="center">👋,Hello 🌍  </div>
-### <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=30&pause=800&color=0905B5&width=435&lines=Hi+I+am+G.+Hamza+Choudhury;A+Full-stack+developer+🧑🏻‍💻;It's+nice+to+meet+you)](https://git.io/typing-svg)
+### <div align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&weight=900&size=30&pause=800&color=0905B5&width=435&lines=Hi+I+am+G.+Hamza+Choudhury;A+Full-stack+developer+🧑🏻‍💻;It's+nice+to+meet+you!)](https://git.io/typing-svg)
   </div>
 
 ## <div align="center">💻 [Portfolio Website](https://gcteam.dev) </div>
